@@ -254,6 +254,6 @@ h1{
     font-size: 2rem;
   }
   .price{
-    display: block;
+    flex-direction: column;
   }
 }
