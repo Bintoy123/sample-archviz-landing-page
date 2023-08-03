@@ -256,4 +256,7 @@ h1{
   .price{
     flex-direction: column;
   }
+  .four{
+    width: 20vw;
+  }
 }
