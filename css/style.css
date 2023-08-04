@@ -245,6 +245,12 @@ h1{
   h1{
     font-size: 4rem;
   }
+  .price{
+    flex-direction: column;
+  }
+  .four{
+    width: 20vw;
+  }
 }
 @media(max-width: 700px){
   header{
