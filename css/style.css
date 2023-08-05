@@ -250,6 +250,7 @@ h1{
   }
   .four{
     width: 20vw;
+    margin:auto;
   }
 }
 @media(max-width: 700px){
@@ -264,5 +265,6 @@ h1{
   }
   .four{
     width: 20vw;
+    margin: auto;
   }
 }
