@@ -249,8 +249,8 @@ h1{
     flex-direction: column;
   }
   .four{
-    width: 20vw;
-    margin:auto;
+    width: 60vw;
+    margin: 15px auto;
   }
 }
 @media(max-width: 700px){
@@ -264,7 +264,7 @@ h1{
     flex-direction: column;
   }
   .four{
-    width: 20vw;
-    margin: auto;
+    width: 60vw;
+    margin: 15px auto;
   }
 }
