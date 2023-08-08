@@ -252,6 +252,10 @@ h1{
     width: 60vw;
     margin: 15px auto;
   }
+  .features{
+    display: flex;
+    flex-direction: column;
+  }
 }
 @media(max-width: 700px){
   header{
