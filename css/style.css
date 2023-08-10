@@ -86,12 +86,7 @@ h1{
   background: white;
   width: 100vw;
 }
-.features{
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  height: 500px;
-}
+
 .one{
   width: 25vw;
   margin: 40px 10px;
