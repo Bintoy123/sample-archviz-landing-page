@@ -86,7 +86,9 @@ h1{
   background: white;
   width: 100vw;
 }
-
+.feautres_class{
+  display: flex;
+}
 .one{
   width: 25vw;
   margin: 40px 10px;
