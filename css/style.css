@@ -88,6 +88,7 @@ h1{
 }
 .feautres_class{
   display: flex;
+  margin: auto;
 }
 .one{
   width: 25vw;
@@ -249,11 +250,7 @@ h1{
     width: 60vw;
     margin: 15px auto;
   }
-  .one{
-    display: flex;
-    flex-direction: column;
-    width: 60vw;
-  }
+  
 }
 @media(max-width: 700px){
   header{
