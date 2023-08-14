@@ -91,6 +91,7 @@ h1{
   justified-content: center;
   align-items: center;
   margin: auto;
+  text-align: center;
 }
 .one{
   width: 25vw;
