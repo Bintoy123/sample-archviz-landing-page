@@ -88,6 +88,8 @@ h1{
 }
 .feautres_class{
   display: flex;
+  justified-content: center;
+  align-items: center;
   margin: auto;
 }
 .one{
