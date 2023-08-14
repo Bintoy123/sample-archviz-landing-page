@@ -87,9 +87,7 @@ h1{
   width: 100vw;
 }
 .feautres_class{
-  display: flex;
-  justified-content: center;
-  align-items: center;
+  display: inline-block;
   margin: auto;
   text-align: center;
 }
