@@ -87,7 +87,7 @@ h1{
   width: 100vw;
 }
 .features_class{
-  display: inline-block;
+  display: flex;
   margin: auto;
   text-align: center;
 }
