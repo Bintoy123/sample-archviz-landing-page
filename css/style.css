@@ -85,6 +85,7 @@ h1{
 #features{
   background: white;
   width: 100vw;
+  display: flex;
 }
 .features_class{
   display: flex;
