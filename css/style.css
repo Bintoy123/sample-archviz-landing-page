@@ -88,6 +88,7 @@ h1{
 }
 .features_class{
   display: flex;
+  margin: auto;
 }
 .one{
   width: 25vw;
