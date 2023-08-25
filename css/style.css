@@ -253,8 +253,9 @@ h1{
   .features_class{
     display: flex;
     flex-direction: column;
+    align-items: center;
     width: 70vw;
-    text-align: center;
+    
   }
   
 }
