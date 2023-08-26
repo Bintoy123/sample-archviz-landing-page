@@ -256,7 +256,9 @@ h1{
     align-items: center;
     justify-content: center;
     width: 70vw;
-    
+  }
+  .features_class .one{
+    width: 70vw;
   }
   
 }
