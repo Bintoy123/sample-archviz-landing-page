@@ -1,4 +1,4 @@
-/* font-family: 'Gloock', serif;
+e/* font-family: 'Gloock', serif;
 font-family: 'Raleway', sans-serif;
 font-family: 'Roboto', sans-serif;
 font-family: 'Ubuntu', sans-serif; */
@@ -85,6 +85,7 @@ h1{
 #features{
   background: white;
   width: 100vw;
+  height: 70vh;
 }
 .features_class{
   display: flex;
