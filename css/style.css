@@ -89,16 +89,16 @@ h1{
 }
 .features_class{
   display: flex;
-  align-items: center;
-  justified-content: center;
 }
 .one{
   width: 25vw;
   margin: 40px 10px;
   text-align: center;
-  border-radius: 25px;
   padding-top: 10px;
   line-height: 2;
+  display:flex;
+  align-items: center;
+  justified-content: center;
 }
 .one i.earth:hover{
   color: green;
