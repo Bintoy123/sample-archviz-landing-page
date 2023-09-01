@@ -89,6 +89,8 @@ h1{
 }
 .features_class{
   display: flex;
+  align-items: center;
+  justifu
 }
 .one{
   width: 25vw;
@@ -96,9 +98,6 @@ h1{
   text-align: center;
   padding-top: 10px;
   line-height: 2;
-  display:flex;
-  align-items: center;
-  justified-content: center;
 }
 .one i.earth:hover{
   color: green;
@@ -118,6 +117,7 @@ h1{
 .project{
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 .three{
   height: 80vh;
