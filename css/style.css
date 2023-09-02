@@ -90,7 +90,7 @@ h1{
 .features_class{
   display: flex;
   align-items: center;
-  justifu
+  justify-content: center;
 }
 .one{
   width: 25vw;
