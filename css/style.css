@@ -260,6 +260,7 @@ h1{
     align-items: center;
     justify-content: center;
     width: 60vw;
+    margin: 0;
   }
 
 }
