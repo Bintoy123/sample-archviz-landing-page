@@ -256,7 +256,7 @@ h1{
     height: 100vh;
   }
   .features_class{
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: center;
     width: 60vw;
