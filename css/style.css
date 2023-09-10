@@ -257,6 +257,7 @@ h1{
   }
   .features_class{
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     width: 60vw;
