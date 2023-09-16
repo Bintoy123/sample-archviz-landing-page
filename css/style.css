@@ -87,12 +87,12 @@ h1{
   background: white;
   width: 100vw;
   height: 70vh;
+  padding: 0 25%;
 }
 .features_class{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: auto;
 }
 .one{
   width: 25vw;
