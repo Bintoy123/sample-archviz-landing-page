@@ -87,7 +87,7 @@ h1{
   background: white;
   width: 100vw;
   height: 70vh;
-  padding-top: 25%;
+  padding: 0 10% 0 10%;
 }
 .features_class{
   display: flex;
