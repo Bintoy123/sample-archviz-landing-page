@@ -88,6 +88,7 @@ h1{
   width: 100vw;
   height: 70vh;
   text-align: center; 
+  padding-top: 10%;
 }
 .features_class{
   display: flex;
