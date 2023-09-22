@@ -88,13 +88,12 @@ h1{
   width: 100vw;
   height: 70vh;
   text-align: center; 
-  padding-top: 15%;
+  padding-top: 5%;
 }
 .features_class{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: 25%;
 }
 .one{
   width: 25vw;
@@ -116,7 +115,7 @@ h1{
   background: grey;
   width: 100vw;
   height: 90vh;
-
+  margin-top: 4%;
 }
 .project{
   display: flex;
@@ -247,7 +246,7 @@ h1{
     height: 60vh;
   }
   h1{
-    font-size: 4rem;
+    font-size: 3rem;
   }
   .price{
     flex-direction: column;
@@ -258,7 +257,8 @@ h1{
   }
   #features{
     height: 100vh;
-    padding: 0 10% 0 10%;
+    padding-top: 4%;
+    padding-bottom: 4%;
   }
   .features_class{
     display: flex;
@@ -267,10 +267,10 @@ h1{
     justify-content: center;
     width: 80vw;
     height: 100vh;
-    margin-bottom: 25px;
   }
   .one{
     width: 80vw;
+    margin: 0;
   }
   #projects{
     margin-top: 20px;
@@ -279,7 +279,7 @@ h1{
     margin-bottom: 20px;
   }
 }
-@media(max-width: 700px){
+@media(max-width: 450px){
   header{
     height: 200px;
   }
@@ -293,4 +293,13 @@ h1{
     width: 60vw;
     margin: 15px auto;
   }
+  .one{
+    font-size: 0.6rem;
+    padding: 0;
+    margin: 0;
+  }
+  .one p{
+    font-size: 1rem;
+  }
+
 }
