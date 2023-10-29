@@ -247,6 +247,7 @@ h1{
   width: 100vw;
   background: grey;
   height: 600px;
+  font-size: 3rem;
 }
 .cta{
   color: orange;
@@ -333,6 +334,10 @@ h1{
   #cta{
     padding: 20px 0px;
     height: 55vh;
+  }
+  #cta h2{
+    margin-bottom: 30px;
+    font-size: 2.5rem;
   }
 }
 @media(max-width: 500px){
