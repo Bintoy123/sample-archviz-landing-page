@@ -247,6 +247,8 @@ h1{
   width: 100vw;
   background: grey;
   height: 600px;
+}
+#cta h2{
   font-size: 3rem;
 }
 .cta{
