@@ -330,6 +330,10 @@ h1{
   header{
     margin-bottom: 20px;
   }
+  #cta{
+    padding: 20px 0px;
+    height: 40vh;
+  }
 }
 @media(max-width: 500px){
   .title{
@@ -376,8 +380,5 @@ h1{
   #check{
     display: none;
   }
-  #cta{
-    padding: 20px 0px;
-    height: 40vh;
-  }
+
 }
